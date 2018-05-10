@@ -6,7 +6,7 @@ Tutorial de como controlar o robô usando Arduino, Bluetooth, e aplicativo Andro
 
 Escolha uma das versões abaixo, de acordo com o que o seu robô precisa.
 
-### [Versão 1](/ver01)
+### [Versão 1](/ver01/ver01.ino)
 - 2 Pontes H
 - Sem armas
 - Sem SoftwareSerial (rx/rx nos pinos 0 e 1)
