@@ -18,13 +18,13 @@ Escolha uma das versões abaixo, de acordo com o que o seu robô precisa, e faç
 - Sem SoftwareSerial
 - PWM usado para suavizar as curvas
 
-### [Versão 3](/ver02/ver03.ino)
+### [Versão 3](/ver03/ver03.ino)
 - 2 Pontes H
 - Sem armas
 - SoftwareSerial (rx/tx nos pinos 7 e 8)
 - PWM usado para suavizar as curvas
 
-### [Versão 4](/ver02/ver04.ino)
+### [Versão 4](/ver04/ver04.ino)
 - 3 Pontes H
 - Arma usando ponte H
 - SoftwareSerial (rx/tx nos pinos 7 e 8)
