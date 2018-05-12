@@ -18,13 +18,13 @@ Escolha uma das versões abaixo, de acordo com o que o seu robô precisa, e faç
 - Sem SoftwareSerial
 - PWM usado para suavizar as curvas
 
-### [Versão 3]
+### [Versão 3](/ver02/ver03.ino)
 - 2 Pontes H
 - Sem armas
 - SoftwareSerial (rx/tx nos pinos 7 e 8)
 - PWM usado para suavizar as curvas
 
-### [Versão 4]
+### [Versão 4](/ver02/ver04.ino)
 - 3 Pontes H
 - Arma usando ponte H
 - SoftwareSerial (rx/tx nos pinos 7 e 8)
@@ -47,3 +47,9 @@ Ligue o Bluetooth no celular, clique na engrenagem, e na opção *Connect to car
 </p>
 
 Com o código gravado no Arduino, Smartphone pareado com o módulo bluetooth, e circuito corretamente montado, tudo pronto! Você já deve conseguir controlar seu robô para a competição, utilizando bluetooth.
+
+Você consegue controlar o robô para frente, para trás, e girar para a direita ou para a esquerda, o robô não anda em diagonais.
+
+*Atenção*: Se você escolheu o código com *ponte H extra como arma*, os botões de carro ligam e desligam a arma para um sentido e para outro. O botão parte da frente do carro, quando acionado, acente uma luz azul, e a parte de trás, acende uma luz vermelha, dentro do aplicativo.
+
+
