@@ -44,6 +44,8 @@ Para versões 3 e 4, utilize este:
 
 **Atenção!** Utilize 3 resistores de 1kR ou de 10kR, para criar um divisor de tensão no RX do módulo bluetooth, ele precisa receber sinal em 3v3, caso contrário irá queimar.
 
+Caso o robô esteja com o sentido contrário, inverta os fios da ponte H.
+
 ## Aplicativo Android
 
 No seu Smartphone, procure e baixe o aplicativo [Arduino Bluetooth RC Car](https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller).
