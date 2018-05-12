@@ -32,6 +32,18 @@ Escolha uma das versões abaixo, de acordo com o que o seu robô precisa, e faç
 
 ## Circuito
 
+Para versões 1 e 2, utilize este circuito:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RobotFC/ArduinoBluetooth/master/static/03.png" width="598" height="457"/>
+</p>
+
+Para versões 3 e 4, utilize este:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RobotFC/ArduinoBluetooth/master/static/04.png" width="598" height="457"/>
+</p>
+
+**Atenção!** Utilize 3 resistores de 1kR ou de 10kR, para criar um divisor de tensão no RX do módulo bluetooth, ele precisa receber sinal em 3v3, caso contrário irá queimar.
+
 ## Aplicativo Android
 
 No seu Smartphone, procure e baixe o aplicativo [Arduino Bluetooth RC Car](https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller).
@@ -53,5 +65,3 @@ Você consegue controlar o robô para frente, para trás, e girar para a direita
 Para alterar a **velocidade da rotação**, mude nos códigos a variável pwm, com os valores de **0 a 255**, que equivalem de 0% a 100%.
 
 **Atenção**: Se você escolheu o código com **ponte H extra como arma**, os botões de carro ligam e desligam a arma para um sentido e para outro. O botão parte da frente do carro, quando acionado, acente uma luz azul, e a parte de trás, acende uma luz vermelha, dentro do aplicativo.
-
-
