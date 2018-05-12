@@ -38,12 +38,12 @@ No seu Smartphone, procure e baixe o aplicativo [Arduino Bluetooth RC Car](https
 
 Essa é sua interface:
 <p align="center">
-  <img src="" width="400" height="80"/>
+  <img src="https://raw.githubusercontent.com/RobotFC/ArduinoBluetooth/master/static/01.jpg" width="598" height="336"/>
 </p>
 
 Ligue o Bluetooth no celular, clique na engrenagem, e na opção *Connect to car*. 
 <p align="center">
-  <img src="" width="400" height="80"/>
+  <img src="https://raw.githubusercontent.com/RobotFC/ArduinoBluetooth/master/static/02.jpg" width="598" height="336"/>
 </p>
 
 Com o código gravado no Arduino, Smartphone pareado com o módulo bluetooth, e circuito corretamente montado, tudo pronto! Você já deve conseguir controlar seu robô para a competição, utilizando bluetooth.
