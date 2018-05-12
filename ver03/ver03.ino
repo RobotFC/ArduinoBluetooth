@@ -11,6 +11,8 @@
  */
 
 
+#include <SoftwareSerial.h>
+
 const int ponteH01DIR = 10, ponteH01ESQ = 9,
           ponteH02DIR = 5,  ponteH02ESQ = 6,
           pwm = 130; // 0 - 255 => 0% - 100%
