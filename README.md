@@ -50,7 +50,7 @@ Com o código gravado no Arduino, Smartphone pareado com o módulo bluetooth, e 
 
 Você consegue controlar o robô para frente, para trás, e girar para a direita ou para a esquerda, o robô não anda em diagonais.
 
-Para alterar a velocidade da rotação, mude nos códigos a variável pwm, com os valores 0 a 255, que equivalem de 0% a 100%.
+Para alterar a **velocidade da rotação**, mude nos códigos a variável pwm, com os valores de **0 a 255**, que equivalem de 0% a 100%.
 
 **Atenção**: Se você escolheu o código com **ponte H extra como arma**, os botões de carro ligam e desligam a arma para um sentido e para outro. O botão parte da frente do carro, quando acionado, acente uma luz azul, e a parte de trás, acende uma luz vermelha, dentro do aplicativo.
 
